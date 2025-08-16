@@ -1,4 +1,4 @@
-# Assignment-1 Counter Application
+# Assignment-2 Counter Application
 This project is a simple React application that demonstrates the use of **Class Components** and **Functional Components**. Both components implement a **counter** with increment (`+`) and decrement (`-`) buttons.  
 
 ## ✨ Features
@@ -10,11 +10,15 @@ This project is a simple React application that demonstrates the use of **Class 
   - Decrement button (number will not go below 0)
 - Attractive UI design with buttons and layout.
 
+## 🌍 Live Demo
+You can check the hosted project here:  
+👉 [Assignment-2 Counter Application](https://function-assignment-1.netlify.app/)
+
 ## 📂 Project Structure
 ```
 src/
  ├── App.js        # Main file with Class & Function counter
- ├── App.css       # Styling file
+ ├── App.css       # (Optional) Styling file
  └── index.js      # React entry point
 ```
 
